@@ -1,4 +1,4 @@
-Would like to thank & cite Shyanukant Rathi (https://www.youtube.com/watch?v=meghTcW6kEY) for helping to get the dapp to the next level
+
 
 ## ECDSA Node
 
